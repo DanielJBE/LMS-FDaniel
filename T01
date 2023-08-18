@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zelda a lenda</title>
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <h1>Zelda a lenda</h1>
+    </header>
+
+    <!-- Navegação -->
+    <nav>
+        <ul>
+            <!-- Links para outras páginas -->
+            <li><a href="https://www.nintendo.pt/Jogos/Portal-Nintendo/Portal-The-Legend-of-Zelda/Portal-The-Legend-of-Zelda-627606.html">Link 1</a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda">Link 2</a></li>
+            <li><a href="https://tecnoblog.net/responde/a-linha-do-tempo-dos-jogos-da-franquia-the-legend-of-zelda/">Link 3</a></li>
+        </ul>
+    </nav>
+
+    <!-- Conteúdo principal -->
+    <main>
+        <!-- Seção sobre Zelda -->
+        <div>
+            <h2>Sobre Zelda</h2>
+            <p>Texto introdutório sobre o universo de Zelda.</p>
+            <!-- Link com imagem -->
+            <a href="https://www.nintendo.pt/Jogos/Portal-Nintendo/Portal-The-Legend-of-Zelda/Portal-The-Legend-of-Zelda-627606.html">
+                <img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/portals_3/SI_Hub_Zelda_Portal_image1600w.jpg" 
+                alt="Imagem de Zelda">
+            </a>
+        </div>
+
+        <!-- Tabela de Dados -->
+        <div>
+            <h2>Tabela de Dados</h2>
+            <table>
+                <!-- Cabeçalho da tabela -->
+                <thead>
+                    <tr>
+                        <th>Personagem</th>
+                        <th>Jogo</th>
+                        <th>Descrição</th>
+                    </tr>
+                </thead>
+                <!-- Corpo da tabela -->
+                <tbody>
+                    <!-- Linha 1 -->
+                    <tr>
+                        <td><strong>Link</strong></td>
+                        <td>The Legend of Zelda</td>
+                        <td>O herói da série, vestido de verde.</td>
+                    </tr>
+                    <!-- Linha 2 -->
+                    <tr>
+                        <td><strong>Zelda</strong></td>
+                        <td>The Legend of Zelda</td>
+                        <td>A princesa de Hyrule, muitas vezes em perigo.</td>
+                    </tr>
+                    <!-- Linha 3 -->
+                    <tr>
+                        <td><strong>Ganondorf</strong></td>
+                        <td>The Legend of Zelda</td>
+                        <td>O vilão recorrente, em busca do poder total.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2023 Zelda a Lenda</p>
+    </footer>
+</body>
+</html>
